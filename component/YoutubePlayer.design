@@ -1,4 +1,4 @@
-<design:component label="Lightning Youtube Player">
+<design:component label="Lightning Youtube Video">
 	<design:attribute name="youtube_id" label="Youtube Video ID" default="FwKpaBMTvJM" description="You can find the ID at the end of a youtube URL (eg. https://www.youtube.com/watch?v=YOUTUBE_ID)"/>
     <design:attribute name="fullscreen" label="Full Screen" default="0" description="Video will occupy the whole screen ignoring Video Height."/>
     <design:attribute name="autoplay" label="Autoplay" default="1" />
